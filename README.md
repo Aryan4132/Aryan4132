@@ -99,7 +99,7 @@ I am a passionate developer focused on building autonomous agents, local-first A
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan Shukla" height="30" width="40" /></a>
-  <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Aryan" height="30" width="40" /></a>
+  <a href="mailto:aryanshukla4132@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Aryan" height="30" width="40" /></a>
 </p>
 
 <br />

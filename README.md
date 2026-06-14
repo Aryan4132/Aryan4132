@@ -1,9 +1,6 @@
 # Hi there, I'm Aryan! 👋
 
 ### 🚀 Full-Stack Developer | AI Architect | System Designer
-
-![Header Image](https://capsule-render.vercel.app/render?type=winding&color=auto&height=200&section=header&text=Aryan%204132&fontSize=70)
-
 ---
 
 ### 💫 About Me
@@ -61,4 +58,4 @@ I am a passionate developer focused on building autonomous agents, local-first A
 - **GitHub**: [Aryan4132](https://github.com/Aryan4132)
 - **Portfolio**: [Check out my latest work!](#)
 
-<p align="right">*Built with ⚡ by Aryan*</p>
+<p align="right">*Built by Aryan*</p>

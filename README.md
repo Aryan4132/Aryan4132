@@ -1,7 +1,7 @@
 # Hi there, I'm Aryan! 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan4132/Aryan4132/main/github_banner.png" alt="Aryan's GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aryan4132/Aryan4132/main/github_banner_charcoal.png" alt="Aryan's GitHub Banner" width="100%" />
 </p>
 
 <p align="center">

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github_banner_custom.png" alt="Aryan Shukla" width="100%" />
+<img src="github_banner_v2.png" alt="Aryan Shukla" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Meridian-X+%E2%80%94+Autonomous+Desktop+AI+%F0%9F%9A%80;Local-First+LLMs+%7C+GraphRAG+%7C+Knowledge+Graphs;Rust+%7C+Python+%7C+TypeScript+%7C+React+19;Designing+Systems+Where+AI+Meets+the+OS)](https://git.io/typing-svg)
 

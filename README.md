@@ -1,109 +1,208 @@
-# Hi there, I'm Aryan! 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan4132/Aryan4132/main/github_banner_custom.png" alt="Aryan's GitHub Banner" width="100%" />
-</p>
+<img src="github_banner_custom.png" alt="Aryan Shukla" width="100%" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Architect;Building+Meridian-X+%F0%9F%9A%80;Exploring+Knowledge+Graphs+%26+RAG;Designing+Local-First+AI+Systems" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Meridian-X+%E2%80%94+Autonomous+Desktop+AI+%F0%9F%9A%80;Local-First+LLMs+%7C+GraphRAG+%7C+Knowledge+Graphs;Rust+%7C+Python+%7C+TypeScript+%7C+React+19;Designing+Systems+Where+AI+Meets+the+OS)](https://git.io/typing-svg)
 
----
+<br/>
 
-### 💫 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanshukla4132)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanshukla4132@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryan4132)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aryan4132&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/Aryan4132)
 
-I am a passionate developer focused on building autonomous agents, local-first AI systems, and high-performance web applications. I love bridging the gap between complex backend architecture and intuitive user experiences.
+</div>
 
-- 🛠️ **Currently building:** [Meridian-X](https://github.com/Aryan4132/Meridian-X) — An autonomous offline desktop agent.
-- 📚 **Exploring:** Knowledge Graphs, RAG (Retrieval-Augmented Generation), and low-level system optimization.
-- 🎯 **Goal:** Pushing the boundaries of how humans interact with local data and AI.
+<br/>
 
----
+## 🧑‍💻 About Me
 
-### 🛠️ Tech Stack & Tools
+> *I build tools that make AI work for you — offline, fast, and on your own terms.*
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,fastapi,mongodb,docker,git,html,css,github,vscode,postgres,redux,tailwind&theme=dark" />
-  </a>
-</p>
+Computer Engineering student at **Don Bosco Institute of Technology, Mumbai** *(graduating May 2028)*, specialising in autonomous agents, local-first AI systems, and high-performance full-stack applications. My obsession: pushing LLMs out of the cloud and into the OS.
 
----
+```yaml
+name:       Aryan Shukla
+location:   Mumbai, Maharashtra 🇮🇳
+education:  B.E. Computer Engineering @ DBIT (2024 – 2028)
+focus:      Local-First AI · Agentic Systems · Knowledge Graphs · Systems Programming
+building:   Meridian-X — an offline autonomous desktop AI agent
+exploring:  GraphRAG · 3D Semantic Visualisation · Rust · P2P Networking
+```
 
-### 🏆 Flagship Projects
+<br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com/Aryan4132/Meridian-X">Meridian-X</a></h4>
-      <p><em>Autonomous Offline Desktop Agent</em></p>
-      <p>A local-first AI assistant designed to run fully offline, securing user data while automating daily tasks and system operations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 <a href="https://github.com/Aryan4132/InvestIQ">InvestIQ</a></h4>
-      <p><em>Intelligent Investment Analytics</em></p>
-      <p>Real-time financial analytics dashboard powered by Server-Sent Events (SSE) for streaming updates and custom WASM-based chart caching.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/Aryan4132/VisualiseDB">VisualiseDB</a></h4>
-      <p><em>High-Performance Database Visualization</em></p>
-      <p>In-browser visualization tool utilizing Web Workers and WebAssembly (WASM) to offload heavy query parsing and visual rendering from the main thread.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ <a href="https://github.com/Aryan4132/javamini">JavaMini</a></h4>
-      <p><em>Mini JS/Java Compiler Experiment</em></p>
-      <p>A lightweight interpreter and compiler experiment translating subsets of JavaScript/Java syntax into intermediate execution models.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
-    </td>
-  </tr>
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,rust,cpp,html,css&theme=dark)](https://skillicons.dev)
+
+**Frontend & Desktop**
+
+[![Frontend](https://skillicons.dev/icons?i=react,tauri,threejs,vite,redux,tailwind&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,sqlite,postgres,docker&theme=dark)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**AI / ML Specialisation**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Vector RAG](https://img.shields.io/badge/Vector%20RAG-8B5CF6?style=flat-square&logoColor=white)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-0EA5E9?style=flat-square&logoColor=white)
+![ReAct Agent](https://img.shields.io/badge/ReAct%20Agent%20Loop-F43F5E?style=flat-square&logoColor=white)
+![nomic-embed](https://img.shields.io/badge/nomic--embed--text-10B981?style=flat-square&logoColor=white)
+![SQLite-VSS](https://img.shields.io/badge/SQLite%20Vector%20Ext-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SSE Streaming](https://img.shields.io/badge/SSE%20Streaming-FF9800?style=flat-square&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Aryan4132&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+## 🚀 Flagship Projects
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+
+### 🧠 [Meridian-X](https://github.com/Aryan4132/Meridian-X) &nbsp;—&nbsp; Autonomous Offline Desktop Agent
+
+<table>
+<tr>
+<td>
+
+**Stack:** `Tauri` `React 19` `FastAPI` `Ollama` `SQLite` `Python`
+
+A local-first AI workspace companion that runs **100% offline** — automating OS-level tasks, parsing your documents, and reasoning through complex multi-step workflows, all without a single cloud call.
+
+| Metric | Result |
+|--------|--------|
+| Query latency vs cloud | **↓ 40%** via local Ollama inference |
+| Tool-call success rate | **92%** with ReAct + JSON validation |
+| RAG response time | **< 200 ms** on local SQLite vector extension |
+| Architecture | Speculative Concurrency Filter — parallel reads, queued writes |
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Analytics
+### 📈 [InvestIQ](https://github.com/Aryan4132/InvestIQ) &nbsp;—&nbsp; AI Wealth Terminal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan4132&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Aryan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan4132&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Aryan's Top Languages" width="48%" />
-</p>
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan4132&theme=radical&hide_border=true&background=0D1117&title=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9" alt="GitHub Streak" width="97%" />
-</p>
+**Stack:** `React 19` `Express.js` `MongoDB` `Ollama` `Recharts` `Zustand`
 
----
+Real-time financial analytics platform with live stock pricing, AI-powered portfolio advisory, and a streaming inference chatbot built for speed.
 
-### 📫 Connect with Me
+| Metric | Result |
+|--------|--------|
+| Time-to-First-Token | **↓ 65%** via SSE streamed AI responses |
+| External API calls | **↓ 80%** with 4-hour MongoDB price caching |
+| UX | Zustand store with optimistic transaction updates |
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan Shukla" height="30" width="40" /></a>
-  <a href="mailto:aryanshukla4132@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Aryan" height="30" width="40" /></a>
-</p>
+</td>
+</tr>
+</table>
 
-<br />
+<br/>
 
-<p align="right">
-  <i>Built with 💙 by Aryan Shukla</i>
-</p>
+### 🕸️ [Local 3D Knowledge Graph](https://github.com/Aryan4132/knowledge-graph) &nbsp;—&nbsp; Semantic Visualiser
+
+<table>
+<tr>
+<td>
+
+**Stack:** `Three.js` `React` `FastAPI` `MongoDB` `Ollama` `GraphRAG`
+
+Transforms a folder of fragmented documents into a living, traversable **3D knowledge graph** — with autonomous semantic linking and GraphRAG-enhanced local LLM context.
+
+| Metric | Result |
+|--------|--------|
+| Semantic nodes auto-generated | **50+** per folder via local text embeddings |
+| Documents traversable in real-time | **500+** in 3D force-directed graph |
+| LLM prompt relevance boost | **+35%** via adjacent GraphRAG node context |
+| File-system watcher | Real-time vector DB updates — **0% UI freeze** |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛠️ [JavaMini](https://github.com/Aryan4132/javamini) &nbsp;—&nbsp; Compiler Experiment
+
+<table>
+<tr>
+<td>
+
+**Stack:** `JavaScript` `Node.js`
+
+A lightweight interpreter translating subsets of JavaScript & Java into intermediate execution models — custom **lexer → parser → AST evaluator** pipeline, built from scratch to understand compiler internals end-to-end.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%"/>
+
+<br/>
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan4132&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF&hide_border=true&custom_title=Aryan's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<!-- Snake animation — requires a GitHub Action in your profile repo.
+     Add this workflow: https://github.com/Platane/snk
+     It generates: output/github-contribution-grid-snake-dark.svg -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aryan4132/Aryan4132/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20—%20aryanshukla4132-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanshukla4132)
+[![Email](https://img.shields.io/badge/Email%20—%20aryanshukla4132%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanshukla4132@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Built%20with%20%F0%9F%92%99%20in%20Mumbai&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+</div>

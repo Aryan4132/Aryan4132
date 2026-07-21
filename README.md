@@ -128,7 +128,7 @@ Real-time financial analytics platform with live stock pricing, AI-powered portf
 
 <br/>
 
-### 🕸️ [Local 3D Knowledge Graph](https://github.com/Aryan4132/knowledge-graph) &nbsp;—&nbsp; Semantic Visualiser
+### 🕸️ [Local 3D Knowledge Graph](https://github.com/Aryan4132/Knowledge_Graph) &nbsp;—&nbsp; Semantic Visualiser
 
 <table>
 <tr>

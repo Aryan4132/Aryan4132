@@ -139,20 +139,6 @@ Real-time financial analytics platform with live equity feeds, transaction loggi
 
 <br/>
 
-### 🛠️ [JavaMini](https://github.com/Aryan4132/javamini) &nbsp;—&nbsp; Compiler Experiment
-
-<table>
-<tr>
-<td>
-
-**Stack:** `JavaScript` `Node.js`
-
-A lightweight interpreter translating subsets of JavaScript & Java into intermediate execution models — custom **lexer → parser → AST evaluator** pipeline, built from scratch to understand compiler internals end-to-end.
-
-</td>
-</tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%"/>
 
 <br/>
